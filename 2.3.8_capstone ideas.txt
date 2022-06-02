@@ -1,0 +1,28 @@
+Idea 1: Face recognition
+
+Business application: improve security by identifing non-employees before they enter the building
+
+Data source: LFW - "People (Face Recognition)" from kaggle
+https://www.kaggle.com/datasets/atulanandjha/lfwpeople
+
+"Pins Face Recognition" from kaggle
+https://www.kaggle.com/datasets/hereisburak/pins-face-recognition
+
+
+Idea 2: Disease prevention (Diabetes or Heart disease)
+
+Business application: identify pre-diabetes employees (or employees having a high risk of heart disease) and create a wellness program for them and lower the insurance costs
+
+Data source: "Diabetes Health Indicators Dataset" from Kaggle
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
+Data source: "Personal Key Indicators of Heart Disease" from Kaggle
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+
+
+Idea 3: Lean manufacturing - defects detection
+
+Business application: identify defects in the production line with high accuracy, which will improve quality and resource allocation
+
+Data source: not found yet
+
